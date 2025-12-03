@@ -1,0 +1,34 @@
+Energy Dashboard
+-----------------------------------
+
+Project: Simple Campus Energy Dashboard
+Files used: output/cleaned_energy_data.csv
+
+1) Total campus energy (covered period)
+---------------------------------------
+Total campus energy (sum of kWh in cleaned data): 75.00 kWh
+
+2) Highest-consuming building
+-----------------------------
+Building with highest total consumption: buildingA
+Total energy for that building: 75.00 kWh
+
+3) Peak day (highest single-day campus consumption)
+---------------------------------------------------
+Date with highest campus consumption: 2024-03-02
+Campus kWh on that day: 38.00 kWh
+
+4) Simple observations / notes
+------------------------------
+- Data source: all CSV files placed in the `data/` folder and merged by `ingest.py`.
+- Time resolution: original readings may be hourly; aggregation here is daily.
+- Missing or invalid rows were dropped during ingestion and recorded in `output/ingestion_log.txt`.
+- Building names (if missing) were inferred from filenames where possible.
+
+5) Suggestions / next steps (short)
+-----------------------------------
+- Add more months of raw CSVs to increase analysis period.
+- Create weekly and monthly trend charts to show longer-term patterns.
+- Flag unusually high single-day or single-hour spikes for investigation.
+
+Prepared by: Jiya Gupta

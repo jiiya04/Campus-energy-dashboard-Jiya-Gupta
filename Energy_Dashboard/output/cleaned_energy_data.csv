@@ -1,0 +1,6 @@
+timestamp,kwh,meter_id,building,month,source_file
+2024-03-01 00:00:00,10,101,buildingA,march,buildingA_march.csv
+2024-03-01 01:00:00,12,101,buildingA,march,buildingA_march.csv
+2024-03-01 02:00:00,15,101,buildingA,march,buildingA_march.csv
+2024-03-02 00:00:00,20,101,buildingA,march,buildingA_march.csv
+2024-03-02 01:00:00,18,101,buildingA,march,buildingA_march.csv
