@@ -1,8 +1,7 @@
 Energy Dashboard
 -----------------------------------
 
-Project: Simple Campus Energy Dashboard
-Files used: output/cleaned_energy_data.csv
+Project: Campus Energy Dashboard
 
 1) Total campus energy (covered period)
 ---------------------------------------
@@ -33,3 +32,4 @@ Campus kWh on that day: 38.00 kWh
 
 
 Prepared by: Jiya Gupta
+
