@@ -25,10 +25,11 @@ Campus kWh on that day: 38.00 kWh
 - Missing or invalid rows were dropped during ingestion and recorded in `output/ingestion_log.txt`.
 - Building names (if missing) were inferred from filenames where possible.
 
-5) Suggestions / next steps (short)
+5) Suggestions
 -----------------------------------
 - Add more months of raw CSVs to increase analysis period.
 - Create weekly and monthly trend charts to show longer-term patterns.
 - Flag unusually high single-day or single-hour spikes for investigation.
+
 
 Prepared by: Jiya Gupta
