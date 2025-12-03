@@ -1,6 +1,6 @@
 # Energy Dashboard 
 
-This project demonstrates a simple energy monitoring system built using Python.  
+This project demonstrates a energy monitoring system built using Python.  
 It loads raw CSV energy data, cleans it, aggregates daily usage, visualizes trends, and generates an executive summary. 
 
 ---
